@@ -9,5 +9,5 @@ An arithmetic calculator made in Java using Binary Trees. The program caclulates
       -  / (division), (eg. 3.3 / 2.2).
       -  ^ (exponentiation) (eg. 3.3^2.2)
 
-3. **Positive numbers (integer or floating point)**: All calculations are done
-between floating point numbers.
+3. **Positive numbers (integer or floating point):** All calculations are done between floating point numbers.
+4. **Space characters** ([ \t]) between parentheses, operators and numbers.
