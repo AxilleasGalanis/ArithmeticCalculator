@@ -21,3 +21,5 @@ The program does the following:
 1. Prints the message "Expression: " and reads a numeric expression from the keyboard.
 2. Reads a string that consists of one of the following choices:
       - -s: prints to stdout “Postfix: ” and the equivalent expression in postfix format (of the equivalent Binary Tree).
+      - -c: prints to stdout “Result: ” and the result of the numeric expression up to 6 decimal places.
+      - -d: prints to stdout the equivalent expression in a format suitable for todot program of the graphviz suite.
