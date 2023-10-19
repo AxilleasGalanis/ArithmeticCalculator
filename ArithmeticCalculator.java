@@ -1,4 +1,3 @@
-package ce326.hw1;
 import java.util.Scanner;
 
 class Node {
