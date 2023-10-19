@@ -20,8 +20,4 @@ An example of a complex numerical expression is the following:
 The program does the following:
 1. Prints the message "Expression: " and reads a numeric expression from the keyboard.
 2. Reads a string that consists of one of the following choices:
-      - \+ (addition), (eg. 3.3 + 2.2).
-      - \- (subtraction), (eg. 3.3 - 2.2).
-      -  x or \* (multiplication), (eg. 3.3 x 2.2 or 3.3 * 2.2).
-      -  / (division), (eg. 3.3 / 2.2).
-      -  ^ (exponentiation) (eg. 3.3^2.2)
+      - -s: prints to stdout “Postfix: ” and the equivalent expression in postfix format (of the equivalent Binary Tree).
