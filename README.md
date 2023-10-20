@@ -1,5 +1,5 @@
 # Arithmetic Calculator
-An arithmetic calculator made in Java using Binary Trees. The program caclulates complex arithmetic expressions that include:
+This is an arithmetic calculator made in Java using Binary Trees to store and calculate arithmetic expressions. Complex arithmetic expressions include:
 
 1. **Parentheses:** indicate the priority of operations.
 2. **The symbols of the operators:**
