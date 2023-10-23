@@ -17,7 +17,7 @@ An example of a complex numerical expression is the following:
 5 + (((3.3 + 6.6) * 9.2 ) + 12,546) * 2,323 +
 ( ( ( 33.3 + 2342.1 ) * 55.555 ) - 10000.009 ) + 11.334 * 2.3 ^3.
 ```
-# Usage
+# Features
 The program performs the following actions:
 1. Prints the message "Expression: " and reads a numeric expression from the keyboard.
 2. Reads a string that consists of one of the following choices:
